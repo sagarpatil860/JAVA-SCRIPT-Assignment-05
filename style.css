@@ -1,0 +1,32 @@
+body{
+    background-image:url("BGRI.PNG");
+}
+.colorproperty {
+    display: block;
+    height: 400px;
+    width: 600px;
+    align-items: center;
+    margin: auto;
+    align-content: center;
+    margin-top: 5%;
+    background-color: rgba(160, 95, 149, 0.212);
+}
+h2{
+    text-align: center;
+    font-family:cursive;
+}
+p{
+    text-align: center;
+    font-family:cursive;
+    font-size: 80px;
+    color:darkviolet;
+}
+.buttonalgn{
+    display:flex;
+    align-items: center;
+    align-content: center;
+    vertical-align: middle;
+    padding: auto;
+    
+
+}
